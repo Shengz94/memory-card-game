@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.467662ac.chunk.css",
+    "main.js": "/memory-card-game/static/js/main.c23e18cb.chunk.js",
+    "main.js.map": "/memory-card-game/static/js/main.c23e18cb.chunk.js.map",
+    "runtime-main.js": "/memory-card-game/static/js/runtime-main.14fdd5ef.js",
+    "runtime-main.js.map": "/memory-card-game/static/js/runtime-main.14fdd5ef.js.map",
+    "static/js/2.040cd986.chunk.js": "/memory-card-game/static/js/2.040cd986.chunk.js",
+    "static/js/2.040cd986.chunk.js.map": "/memory-card-game/static/js/2.040cd986.chunk.js.map",
+    "index.html": "/memory-card-game/index.html",
+    "static/css/main.467662ac.chunk.css.map": "/memory-card-game/static/css/main.467662ac.chunk.css.map",
+    "static/js/2.040cd986.chunk.js.LICENSE.txt": "/memory-card-game/static/js/2.040cd986.chunk.js.LICENSE.txt",
+    "static/media/serie-1.a008fb0b.png": "/memory-card-game/static/media/serie-1.a008fb0b.png",
+    "static/media/serie-10.1d9fd22d.png": "/memory-card-game/static/media/serie-10.1d9fd22d.png",
+    "static/media/serie-11.b8d8d9eb.png": "/memory-card-game/static/media/serie-11.b8d8d9eb.png",
+    "static/media/serie-12.b681bc3f.png": "/memory-card-game/static/media/serie-12.b681bc3f.png",
+    "static/media/serie-13.f7bc2bb5.png": "/memory-card-game/static/media/serie-13.f7bc2bb5.png",
+    "static/media/serie-14.3fbe51ec.png": "/memory-card-game/static/media/serie-14.3fbe51ec.png",
+    "static/media/serie-15.ce674b56.png": "/memory-card-game/static/media/serie-15.ce674b56.png",
+    "static/media/serie-16.87bc71e5.png": "/memory-card-game/static/media/serie-16.87bc71e5.png",
+    "static/media/serie-17.342b8e40.png": "/memory-card-game/static/media/serie-17.342b8e40.png",
+    "static/media/serie-18.56067f7b.png": "/memory-card-game/static/media/serie-18.56067f7b.png",
+    "static/media/serie-2.8c2d3d43.png": "/memory-card-game/static/media/serie-2.8c2d3d43.png",
+    "static/media/serie-3.ff7c2134.png": "/memory-card-game/static/media/serie-3.ff7c2134.png",
+    "static/media/serie-4.d6b3da68.png": "/memory-card-game/static/media/serie-4.d6b3da68.png",
+    "static/media/serie-5.a81766ed.png": "/memory-card-game/static/media/serie-5.a81766ed.png",
+    "static/media/serie-6.8a92960b.png": "/memory-card-game/static/media/serie-6.8a92960b.png",
+    "static/media/serie-7.3df2fbaf.png": "/memory-card-game/static/media/serie-7.3df2fbaf.png",
+    "static/media/serie-8.5cdd45d3.png": "/memory-card-game/static/media/serie-8.5cdd45d3.png",
+    "static/media/serie-9.5e3b2f10.png": "/memory-card-game/static/media/serie-9.5e3b2f10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14fdd5ef.js",
+    "static/js/2.040cd986.chunk.js",
+    "static/css/main.467662ac.chunk.css",
+    "static/js/main.c23e18cb.chunk.js"
+  ]
+}
