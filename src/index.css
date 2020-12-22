@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.App .logo{
+  background-color: cornsilk;
+}
+.App .logo div{
+  display: inline-block;
+}
+.App .logo .github-logo{
+  margin: auto 10px;
+}
+.App .logo .github-logo img{
+  width: 24px;
+}
+
+
+.App .memory-game{
+  text-align: center;
+  background-color:darksalmon
+}
+.App .memory-game .score-board{
+  text-align: end;
+  margin-right: 50px;
+}
+.App .memory-game .group-card .card {
+  width: 170px;
+  padding: 5px;
+  margin: 10px;
+  background-color: burlywood;
+  text-align: center;
+  display: inline-block;
+  border: 1px brown solid;
+}
+.App .memory-game .group-card .card img{
+  width: 150px;
+  height: 210px;
+  border: 1px black solid;
+}
